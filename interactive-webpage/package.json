@@ -1,0 +1,21 @@
+{
+  "name": "interactive-webpage",
+  "version": "1.0.0",
+  "description": "A functional webpage demonstrating effective use of event listeners, form validation, and interactive elements.",
+  "main": "src/scripts/main.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "javascript",
+    "event listeners",
+    "form validation",
+    "interactive elements"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
